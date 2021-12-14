@@ -23,5 +23,6 @@
   "homepage": "https://github.com/nicoguarino/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^6.4.0"
-  }
+  },
+  "dependencies": {}
 }
